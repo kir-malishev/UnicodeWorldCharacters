@@ -1,4 +1,4 @@
-# characters
+# UnicodeWorldCharacters
 
 Unicode character table for different languages of the world. Obtained using the [Unicode Common Locale Data Repository](http://cldr.unicode.org/index/downloads).
 
